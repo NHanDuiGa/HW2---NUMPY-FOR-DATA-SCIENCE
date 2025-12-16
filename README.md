@@ -284,7 +284,6 @@ Trong dự án này, thay vì dùng `np.dot` đơn thuần, tôi ưu tiên sử 
 
 ### Liên hệ (Contact)
 * *GitHub:* [Link GitHub tác giả](https://github.com/Sakshi-16)
-www.kaggle.com
 
 ---
 
